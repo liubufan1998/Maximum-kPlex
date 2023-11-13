@@ -177,7 +177,7 @@ public:
 
     int main(int argc, char *argv[]) {
 	    if(argc < 3) {
-		    printf("Usage: [1]exe [2]dir [3]k\n");
+		    printf("Usage: [1]exe [2]dir [3]k\n"); // 这里告诉我们这个程序所接受的三个输入分别是多少。
 		    return 0;
 	    }
         readGraph_binary(argv[1]);
@@ -317,6 +317,7 @@ private:
     }
 
     void BB_search(ui S_end, ui R_end, ui level, bool choose_zero, ui must_include_vertices_n) {
+		// 这里面其实采用的就是简单的二分支，即包括一个顶点或者排除一个顶点
     	assert(!choose_zero||!must_include_vertices_n);
         if(S_end > best_solution_size) { // find a larger solution
             best_solution_size = S_end;
