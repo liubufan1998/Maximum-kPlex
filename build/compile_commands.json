@@ -1,0 +1,14 @@
+[
+{
+  "directory": "E:/GitHub/KPlexS-original/build",
+  "command": "\"E:\\application 2\\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\\mingw64\\bin\\g++.exe\"  @CMakeFiles/kPlexS.dir/includes_CXX.rsp -g -std=gnu++17 -flto -O3 -o CMakeFiles\\kPlexS.dir\\main.cpp.obj -c E:\\GitHub\\KPlexS-original\\main.cpp",
+  "file": "E:/GitHub/KPlexS-original/main.cpp",
+  "output": "CMakeFiles/kPlexS.dir/main.cpp.obj"
+},
+{
+  "directory": "E:/GitHub/KPlexS-original/build",
+  "command": "\"E:\\application 2\\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\\mingw64\\bin\\g++.exe\"  @CMakeFiles/kPlexS.dir/includes_CXX.rsp -g -std=gnu++17 -flto -O3 -o CMakeFiles\\kPlexS.dir\\Graph.cpp.obj -c E:\\GitHub\\KPlexS-original\\Graph.cpp",
+  "file": "E:/GitHub/KPlexS-original/Graph.cpp",
+  "output": "CMakeFiles/kPlexS.dir/Graph.cpp.obj"
+}
+]

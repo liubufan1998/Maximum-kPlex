@@ -8,7 +8,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(SOURCE_FILES main.cpp Graph.cpp)  
   
 add_executable(kPlexS ${SOURCE_FILES})  
-  
+
 target_compile_options(kPlexS PRIVATE -flto -O3)  
 target_include_directories(kPlexS PRIVATE .)  
   

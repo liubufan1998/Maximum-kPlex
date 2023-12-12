@@ -1,0 +1,4 @@
+E:/GitHub/KPlexS-original/build/CMakeFiles/kPlexS.dir
+E:/GitHub/KPlexS-original/build/CMakeFiles/clean_build.dir
+E:/GitHub/KPlexS-original/build/CMakeFiles/edit_cache.dir
+E:/GitHub/KPlexS-original/build/CMakeFiles/rebuild_cache.dir
